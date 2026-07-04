@@ -1,4 +1,4 @@
-# 💻 Terminal CLI Randon Quote Fetcher
+# 💻 Terminal CLI Random Quote Fetcher
 
 A lightweight, clean command-line tool that fetches a random, inspiring (or interesting) quote from an API and displays it in a beautiful, formatted panel right in your terminal.
 
@@ -15,7 +15,7 @@ Ensure you have [uv](https://github.com/astral-sh/uv) installed.
 Then, clone the repository and then sync the environment:
 
 ```bash
-cd randon-quotes
+cd random-quotes
 uv sync
 
 ```
