@@ -40,9 +40,9 @@ This project uses:
 * `requests` for API interaction.
 * `rich` for terminal formatting.
 
-## 🛡️ Licence
+## 🛡️ License
 
-[MIT Licence](./LICENCE)
+[MIT License](./LICENSE)
 
 ## 📖 Project Journey
 
